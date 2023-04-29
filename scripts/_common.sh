@@ -5,7 +5,7 @@
 #=================================================
 
 # commit hashes
-# 2023.04-1
+# 2023.04.1
 version_commit="f3c540cace27536197fe20e771af35a742741120"
 addons_version_commit="8f29a512770d0bbf568f053adae20a82f1b0050f"
 
